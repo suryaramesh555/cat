@@ -1,0 +1,60 @@
+body{
+    background-color: rgb(33,33,33);
+    margin-left: 150px;
+}
+
+
+
+.displayButton{
+    position: relative;
+    width: 400px;
+    height: 150px;
+    margin-left: 25%;
+    border-radius: 10px;
+    background-color: rgb(68,67,67);
+}
+.button1{
+    position: absolute;
+    background-color: red; 
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    width: 100px;
+    height: 50px;
+    left: 70px;
+    font-size: large;
+    border:double;
+}
+    
+   /* .button:visit{ */
+    /* color:white; */
+   /* }  */
+
+
+.button2{
+    position: absolute;
+     background-color: green; 
+    border-radius: 10px;
+    border: none;
+    outline: none;
+    width: 100px;
+    height: 50px;
+    left:220px;
+    font-size: large;
+    border: double;
+
+}
+
+#On{
+    color:white;
+    margin-left: 100px;
+
+}
+.image1Position{
+    margin-left: 30%;
+    width:200px;
+}
+.image2Position{
+    margin-left: 30%;
+    width: 200px;
+}
